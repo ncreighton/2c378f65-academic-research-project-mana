@@ -1,2 +1,30 @@
-# 2c378f65-academic-research-project-mana
-Comprehensive Notion workspace for PhD students, researchers, and academics managing multi-year research projects. Features a literature review database with citation tagging and relevance scoring, hypothesis tracker with experimental status, data collection log, statistical analysis notes workspace, draft writing tracker with word count goals, jou
+# Academic Research Project Manager Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cIaEXeTt8Isf4433mcZb0t)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cIaEXeTt8Isf4433mcZb0t)
+- [Buy on Whop](https://whop.com/academic-research-project-manager-notion-template)
+
